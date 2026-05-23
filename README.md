@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Tim
 
 我是一名 Python / AI 專案導向工程師，  
-專注於 **資料工程、電腦視覺、LLM 應用整合**。
+專注於 **資料工程、電腦視覺、LLM 應用整合**。  
+熱愛工具開發的業餘程式愛好者，喜歡用程式讓日常工作更有效率。
 
 ---
 
@@ -27,12 +28,23 @@
 
 ---
 
+### 🔹 Claude Code 個人設定檔
+📦 Repo: https://github.com/yoyoman-1/claude-config  
+- 自訂狀態列（使用量進度條 + Usage Reset 倒數）
+- 使用量監控工具（側邊欄、GUI 浮窗）
+- Claude 行為自訂指令
+
+**Tech**：Python, Claude Code
+
+---
+
 ## 🧠 Skills
 
 - Python / SQL
 - Web Crawling & ETL
 - Computer Vision (YOLO)
 - LLM Integration (Ollama)
+- Claude Code
 - Git / GitHub
 
 ---
